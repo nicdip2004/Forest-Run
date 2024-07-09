@@ -1,7 +1,5 @@
 # Forest-Run
-https://github.com/nicdip2004/Forest-Run/assets/129190555/4dbb688e-33df-4015-9f39-0b6de4efee9f
-
-
+https://github.com/nicdip2004/Forest-Run/assets/129190555/2266c636-56c8-4d9c-9f57-dcc8ae50c859
 
 Initially named ScrollRune, Forest Run is a game about a boy need to escape the forest to get back to his shop. You must run away from the monster in the forest and avoid death traps. Experience the thrill and Exciting adventure to escape the forest on your own. Good luck!!!
 
